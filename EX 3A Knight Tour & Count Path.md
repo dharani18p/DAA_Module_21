@@ -82,8 +82,8 @@ if __name__=='__main__':
 
 ## Output:
 
-![Uploading 447226187-4d4c30ba-3395-4bbc-9730-c870b28a3480.png…]()
 
+![447226187-4d4c30ba-3395-4bbc-9730-c870b28a3480](https://github.com/user-attachments/assets/b0107af0-79f8-417c-8e72-b780c0def977)
 
 
 ## Result:
