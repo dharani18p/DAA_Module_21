@@ -43,7 +43,7 @@ if __name__ == "__main__":
 ```
 
 ## Output:
-![Uploading 447226830-fb255d4c-7ac6-4c07-b38b-c90804ca86ac.png…]()
+![447226830-fb255d4c-7ac6-4c07-b38b-c90804ca86ac](https://github.com/user-attachments/assets/658ac08c-8049-4594-9adf-5de104e525ec)
 
 
 ## Result:
